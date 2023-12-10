@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>
+            <![CDATA[Tommy's dagelijkse quote]]>
+        </title>
+        <description>
+            <![CDATA[Elke dag zegt Tommy wel iets slims]]>
+        </description>
+        <link>http://frankmeeuwsen.com/tommy/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 08 Dec 2023 10:33:08 GMT</lastBuildDate>
+        <atom:link href="http://frankmeeuwsen.com/tommy/feed.xml" rel="self" type="application/rss+xml" />
+        <language>
+            <![CDATA[nl]]>
+        </language>
+        <item>
+            <title>
+                <![CDATA[Tommy's wijsheid van de dag]]>
+            </title>
+            <description>
+                <![CDATA[Een typemachine is eigenlijk een computer die gelijk kan printen.]]>
+            </description>
+            <guid isPermaLink="false">1702031588847</guid>
+            <pubDate>Fri, 08 Dec 2023 10:33:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

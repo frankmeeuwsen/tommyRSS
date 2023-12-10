@@ -1,0 +1,16 @@
+{
+  "name": "tommyrss",
+  "version": "1.0.0",
+  "description": "Get a random quote every day in a single-entry RSS feed",
+  "main": "getEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rss": "",
+    "node-schedule": ""
+  },
+  "keywords": ["rss", "quote"],
+  "author": "Frank Meeuwsen",
+  "license": "ISC"
+}
